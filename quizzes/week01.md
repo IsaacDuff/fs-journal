@@ -15,7 +15,7 @@ It stands for Make Directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+It is the tag that creates my workspace on a webpage.
 ```
 
 **4.** What does `HTML` stand for?
@@ -50,7 +50,7 @@ yellow is my element, class or ID (depending on what im targeting or creating), 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+It belongs inside your body tag.
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
