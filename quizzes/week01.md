@@ -44,7 +44,7 @@ yellow is my element, class or ID (depending on what im targeting or creating), 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+for css i can use font weight but in the html i can use a b tag 
 ```
 
 **8.** In what tag does the majority of your code belong?
@@ -56,17 +56,17 @@ It belongs inside your body tag.
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ul, ol and dl
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+Flex property allows you to dictate the length of objects that are d-flex'd
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+height and width
 ```
