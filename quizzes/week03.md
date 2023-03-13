@@ -21,12 +21,12 @@ let property = 'name'
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+Encapsulation is the ordering and bundling of data in a private group that cannot be directly accessed or changed by the user but instead by methods and functions calling upon it. 
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single Responsibility
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
