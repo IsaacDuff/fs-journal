@@ -28,7 +28,7 @@ a promise is a method that will perform its given task and then respond with eit
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
-get, put, delete
+get, put, delete and theres also post
 ```
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
